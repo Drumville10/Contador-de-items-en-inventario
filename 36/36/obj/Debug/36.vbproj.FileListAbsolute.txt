@@ -1,0 +1,12 @@
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\bin\Debug\36.exe.config
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\bin\Debug\36.exe
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\bin\Debug\36.pdb
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\bin\Debug\36.xml
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\obj\Debug\36.vbprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\obj\Debug\_36.Form1.resources
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\obj\Debug\_36.Resources.resources
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\obj\Debug\36.vbproj.GenerateResource.cache
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\obj\Debug\36.vbproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\obj\Debug\36.exe
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\obj\Debug\36.xml
+D:\UNIVERSIDAD\CICLOS\2021 I\Taller de Procesamiento de Datos\EJERCICIOS\36\36\36\obj\Debug\36.pdb
